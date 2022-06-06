@@ -4,5 +4,5 @@ do{
     fact = fact * count
     count++
 
-}while(count > 12)
+}while(count < 12)
 console.log(fact)

@@ -1,7 +1,8 @@
-function myFuntion(){
-    let fullName = "Mark Zuckerberg"
+//Callee Function
+function myFunction(message,age){
+    let fullName = "Mark Zakerberg"
     console.log(`${message} ${fullName} your age ${age} year old`)
 }
 
-//call Function
+//Call Function
 myFunction("Hello",25)
